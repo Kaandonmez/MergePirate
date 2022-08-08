@@ -3,17 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Plane
+  - Soldier
+  - Melee
+  - Range
+  - Melee2
+  - Melee3
+  - Range2
+  - Range3
+  - Grid
+  - Character
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Grid
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Enemy
+  - Selected
+  - Character
   - 
   - 
   - 
